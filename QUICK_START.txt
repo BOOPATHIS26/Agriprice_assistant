@@ -1,0 +1,33 @@
+# AgriPrice Assistant - Quick Start Guide
+
+## 🚀 How to Run the App
+
+### Method 1: Double-click (Easiest)
+1. Go to your project folder: `c:\Users\Asus\OneDrive\Documents\AgriPrice AI Agent`
+2. **Double-click** `start.py`
+3. Browser will open automatically!
+
+### Method 2: Batch file
+1. Go to your project folder
+2. **Double-click** `run_web_app.bat`
+
+### Method 3: Command line
+1. Open Command Prompt
+2. Run: `cd "c:\Users\Asus\OneDrive\Documents\AgriPrice AI Agent"`
+3. Run: `python web_app.py`
+
+## 🌐 What happens next:
+- Terminal shows: "Starting AgriPrice Assistant Web App..."
+- Browser opens automatically to: http://localhost:5000
+- You're ready to chat with the AI farming assistant!
+
+## 💡 Quick Tips:
+- Ask: "wheat price in Punjab"
+- Ask: "farming advice"
+- Ask: "cotton price in Maharashtra"
+
+## 🛑 To stop:
+- Press Ctrl+C in the terminal window
+
+---
+Built for Indian farmers with ❤️
